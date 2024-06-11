@@ -1,11 +1,14 @@
 # GuardianWatch
-Intelligent Childcare Center Safety Monitoring System
-Using Multi-Object Tracking & Computer Vision
+### Intelligent Childcare Center Safety Monitoring System Using Multi-Object Tracking & Computer Vision
+<table>
+<td>
+
 ![image](https://github.com/2023-GC-Senior-Project/.github/assets/87844358/ab881d21-fa9d-4418-8647-803d25f97173)
 
-<!-- Skill -->
-<div>
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+</td>
+<td>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
@@ -14,8 +17,9 @@ Using Multi-Object Tracking & Computer Vision
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
 
+</td>
+</table>
 
 ## <b>System Architecture</b>
 
