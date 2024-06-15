@@ -3,7 +3,7 @@
 <table>
 <td>
 
-![image](https://github.com/2023-GC-Senior-Project/.github/assets/87844358/ab881d21-fa9d-4418-8647-803d25f97173)
+![image](https://github.com/GuardianWatch/.github/assets/87844358/ab881d21-fa9d-4418-8647-803d25f97173)
 
 
 </td>
@@ -23,16 +23,16 @@
 
 ## <b>System Architecture</b>
 
-![image](https://github.com/2023-GC-Senior-Project/.github/assets/87844358/75ae8837-fdb5-466a-a451-cc66de491777)
+![image](https://github.com/GuardianWatch/.github/assets/87844358/75ae8837-fdb5-466a-a451-cc66de491777)
 
 <br/>
 
 <i>For source code and a more detailed description, click the line you want to know details below.</i>
 
-- 🔗 <a href="https://github.com/2023-GC-Senior-Project/GuardianWatch">MOT and CV analyzing for Intelligent Childcare Center Safety Monitoring System (back-end).</a>
-- 🔗 <a href="https://github.com/2023-GC-Senior-Project/senior_project">Description of GuardianWatch system.</a>
-- 🔗 <a href="https://github.com/2023-GC-Senior-Project/Bluetooth">Android application for collect Bluetooth RSSI.</a>
-- 🔗 <a href="https://github.com/2023-GC-Senior-Project/BTmapping">Algorithm to resolve Re-ID problem in MOT using Bluetooth.</a>
-- 🔗 <a href="https://github.com/2023-GC-Senior-Project/guardianwatch_app">Android application for user's application (front-end).</a>
+- 🔗 <a href="https://github.com/GuardianWatch/GuardianWatch">MOT and CV analyzing for Intelligent Childcare Center Safety Monitoring System (back-end).</a>
+- 🔗 <a href="https://github.com/GuardianWatch/senior_project">Description of GuardianWatch system.</a>
+- 🔗 <a href="https://github.com/GuardianWatch/Bluetooth">Android application for collect Bluetooth RSSI.</a>
+- 🔗 <a href="https://github.com/GuardianWatch/BTmapping">Algorithm to resolve Re-ID problem in MOT using Bluetooth.</a>
+- 🔗 <a href="https://github.com/GuardianWatch/guardianwatch_app">Android application for user's application (front-end).</a>
 
 <br/>
